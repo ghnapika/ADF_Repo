@@ -1,0 +1,9 @@
+{
+	"name": "ADFGithubdev",
+	"location": "southcentralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "697f1ce3-1aa7-4efd-b3fc-42ef79ccdd5a",
+		"tenantId": "e0793d39-0939-496d-b129-198edd916feb"
+	}
+}
